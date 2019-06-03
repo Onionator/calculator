@@ -1,6 +1,6 @@
-# _Calculator_
+# _Cipher_
 #### _created by Sam Cook and Cord Walsh_
-#### _this program is a basic Calculator_
+#### _this program is a cipher_
 # _How to run_
 #### _open program in a web browser_
 # _Languages_
